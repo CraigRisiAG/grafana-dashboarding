@@ -1,0 +1,1 @@
+This is a collection of files to set a template for how to set up a grafana dashboard using various yml and json files and extract data from a pipline and push to a dashboard that is created directly within the pipeline.
